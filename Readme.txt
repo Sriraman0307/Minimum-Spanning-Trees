@@ -1,0 +1,1 @@
+Dijkstra's algorithm, Kruskal's algorithm and Prim's algorithm have been implemented with static inputs.
